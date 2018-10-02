@@ -9,8 +9,15 @@
  */
 public class Bank {
 
+    /**
+     * the name of the bank.
+     */
     public String bankName;
 
+    /**
+     * constructor of the bank.
+     * takes no parameters
+     */
     public Bank() {
         bankName = "Illini Bank";
     }
